@@ -164,4 +164,3 @@ export const PUT = handle;
 export const GET = handle;
 export const OPTIONS = handle;
 
-export const runtime = "edge";
