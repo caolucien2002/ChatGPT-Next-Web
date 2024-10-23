@@ -1,5 +1,11 @@
 {
     "github": {
         "silent": true
+    },
+    "functions": {
+        "app/api/**/*": {
+            "maxDuration": 60,
+            "runtime": "nodejs18.x"
+        }
     }
 }
